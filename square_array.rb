@@ -5,4 +5,4 @@ def square_array(numbers)
     i ** 2
 end
   
-
+end
